@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm install --prefix backend && npm install --prefix frontend/sweat_smart  && npm run build --prefix frontend/sweat_smart",
-    "run" : "npm run start --prefix backend"
+    "start" : "npm run start --prefix backend"
   },
   "keywords": [],
   "author": "",
